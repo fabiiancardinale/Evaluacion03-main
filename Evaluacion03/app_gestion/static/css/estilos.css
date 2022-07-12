@@ -1,0 +1,32 @@
+#bg{
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.formulario{
+    background: rgba(0, 0, 0, .4);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.568);
+    color: white;
+}
+
+.boton{
+    background: #222A3F;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 700 !important;
+    color: white;
+}
+
+.boton:hover{
+    color: lawngreen;
+}
+
+footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+ }
